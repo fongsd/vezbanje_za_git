@@ -8,4 +8,5 @@
   - implement pickCardFromHand method 
   - implement attack method //will do today by 6pm
   
- 
+ ## need to do next:
+  - update pickCardFromHand methond
